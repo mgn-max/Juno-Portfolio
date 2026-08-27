@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Juno.Application/Juno.Application.csproj" />
+  <Project Path="Juno.Domain/Juno.Domain.csproj" />
+  <Project Path="Juno.Infrastructure/Juno.Infrastructure.csproj" />
+  <Project Path="Juno.API/Juno.API.csproj" />
+</Solution>

@@ -1,0 +1,6 @@
+@Juno_HostAddress = http://localhost:5264
+
+GET {{Juno_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
